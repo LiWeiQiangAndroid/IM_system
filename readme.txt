@@ -2,10 +2,13 @@
 工程分为三部分，
 1.anychatcoresdk_linux
 这是具有独立功能的核心模块，可以单独完成视频语音的通话，也能显示用户数据ID
+启动时，cd ./anychatcoresdk_linux/bin/server
+运行，./anychatcoreserver
 2.MyCallCenterServlet
 这是业务服务器程序，负责用户的注册登录信息设置等工作，其和核心模块连接可以实现业务服务.
 该业务服务程序需要部署mysql数据库来存储用户名密码头像ID等信息，需要部署Apache Tomcat服务器来
 完成android端用户登录，实现http协议传输
+该包是java程序，可以用eclipse
 3.AnyChatCallCenter
 这是android客户端程序，通过anychat的sdk和.so库文件实现视频的编解码，速率设置，分辨率设置等工作，
 实现用户的注册登录，头像设置，即时语音视频通话。
