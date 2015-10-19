@@ -1,0 +1,3 @@
+SYSFS{idVendor}=="0471",SYSFS{idProduct}=="485d", MODE="666"
+SYSFS{idVendor}=="0471",SYSFS{idProduct}=="485e", MODE="666"
+

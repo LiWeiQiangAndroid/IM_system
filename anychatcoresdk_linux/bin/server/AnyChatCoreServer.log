@@ -1,0 +1,594 @@
+[2015-07-10 16:17:19(727)]	---------------------Init Service--------------------------
+[2015-07-10 16:17:19(728)]	Current File Version: V5.2, Build Time:Jun  5 2015 21:57:48
+[2015-07-10 16:17:19(730)]	Load libbrservernetlayer.so success!(V5.2, Build time:Jun  5 2015 21:57:56)
+[2015-07-10 16:17:19(731)]	Start TCP Server Successed(port=8906)!
+[2015-07-10 16:17:19(731)]	Start UDP Server Successed(port=8907)!
+[2015-07-10 16:17:19(732)]	AnyChat IPC Filter Plus Init, Build Time:Jun  5 2015 21:57:58
+[2015-07-10 16:17:19(732)]	Load SDK Filter Plus:libipcfilterplus.so Success, ver:SDK Filter Plus (IPC), for Linux V5.2
+[2015-07-10 16:17:19(741)]	Start Server At Demo Mode!
+[2015-07-10 16:19:24(683)]	Successful communicate with the business server!
+[2015-07-10 16:31:39(519)]	Fails to communicate with the business server!
+[2015-07-10 19:48:30(171)]	---------------------Init Service--------------------------
+[2015-07-10 19:48:30(171)]	Current File Version: V5.2, Build Time:Jun  5 2015 21:57:48
+[2015-07-10 19:48:30(186)]	Load libbrservernetlayer.so success!(V5.2, Build time:Jun  5 2015 21:57:56)
+[2015-07-10 19:48:30(186)]	Start TCP Server Successed(port=8906)!
+[2015-07-10 19:48:30(186)]	Start UDP Server Successed(port=8907)!
+[2015-07-10 19:48:30(192)]	AnyChat IPC Filter Plus Init, Build Time:Jun  5 2015 21:57:58
+[2015-07-10 19:48:30(192)]	Load SDK Filter Plus:libipcfilterplus.so Success, ver:SDK Filter Plus (IPC), for Linux V5.2
+[2015-07-10 19:48:30(198)]	Start Server At Demo Mode!
+[2015-07-10 19:48:31(240)]	Successful communicate with the business server!
+[2015-07-10 20:06:31(990)]	---------------------Init Service--------------------------
+[2015-07-10 20:06:31(990)]	Current File Version: V5.2, Build Time:Jun  5 2015 21:57:48
+[2015-07-10 20:06:31(994)]	Load libbrservernetlayer.so success!(V5.2, Build time:Jun  5 2015 21:57:56)
+[2015-07-10 20:06:31(994)]	Start TCP Server Successed(port=8906)!
+[2015-07-10 20:06:31(994)]	Start UDP Server Successed(port=8907)!
+[2015-07-10 20:06:31(995)]	AnyChat IPC Filter Plus Init, Build Time:Jun  5 2015 21:57:58
+[2015-07-10 20:06:31(995)]	Load SDK Filter Plus:libipcfilterplus.so Success, ver:SDK Filter Plus (IPC), for Linux V5.2
+[2015-07-10 20:06:32(009)]	Start Server At Demo Mode!
+[2015-07-10 20:06:32(519)]	Successful communicate with the business server!
+[2015-07-11 13:57:48(329)]	---------------------Init Service--------------------------
+[2015-07-11 13:57:48(329)]	Current File Version: V5.2, Build Time:Jun  5 2015 21:57:48
+[2015-07-11 13:57:48(330)]	Load libbrservernetlayer.so success!(V5.2, Build time:Jun  5 2015 21:57:56)
+[2015-07-11 13:57:48(330)]	Start TCP Server Successed(port=8906)!
+[2015-07-11 13:57:48(331)]	Start UDP Server Successed(port=8907)!
+[2015-07-11 13:57:48(331)]	AnyChat IPC Filter Plus Init, Build Time:Jun  5 2015 21:57:58
+[2015-07-11 13:57:48(331)]	Load SDK Filter Plus:libipcfilterplus.so Success, ver:SDK Filter Plus (IPC), for Linux V5.2
+[2015-07-11 13:57:48(338)]	Start Server At Demo Mode!
+[2015-07-11 14:00:29(774)]	---------------------Init Service--------------------------
+[2015-07-11 14:00:29(774)]	Current File Version: V5.2, Build Time:Jun  5 2015 21:57:48
+[2015-07-11 14:00:29(776)]	Start TCP Server Failed, Maybe port(8906) in use?
+[2015-07-11 14:00:29(776)]	Start UDP Server Successed(port=8907)!
+[2015-07-11 14:00:29(776)]	AnyChat IPC Filter Plus Init, Build Time:Jun  5 2015 21:57:58
+[2015-07-11 14:00:29(776)]	Load SDK Filter Plus:libipcfilterplus.so Success, ver:SDK Filter Plus (IPC), for Linux V5.2
+[2015-07-11 14:00:29(781)]	Start Server At Demo Mode!
+[2015-07-11 14:01:04(214)]	AnyChatCoreServer has exited with error code:0
+[2015-07-11 14:02:06(390)]	Successful communicate with the business server!
+[2015-07-11 14:10:36(570)]	Fails to communicate with the business server!
+[2015-07-13 10:29:12(423)]	---------------------Init Service--------------------------
+[2015-07-13 10:29:12(423)]	Current File Version: V5.2, Build Time:Jun  5 2015 21:57:48
+[2015-07-13 10:29:12(438)]	Load libbrservernetlayer.so success!(V5.2, Build time:Jun  5 2015 21:57:56)
+[2015-07-13 10:29:12(438)]	Start TCP Server Successed(port=8906)!
+[2015-07-13 10:29:12(438)]	Start UDP Server Successed(port=8907)!
+[2015-07-13 10:29:12(444)]	AnyChat IPC Filter Plus Init, Build Time:Jun  5 2015 21:57:58
+[2015-07-13 10:29:12(444)]	Load SDK Filter Plus:libipcfilterplus.so Success, ver:SDK Filter Plus (IPC), for Linux V5.2
+[2015-07-13 10:29:12(470)]	Start Server At Demo Mode!
+[2015-07-13 10:31:41(586)]	Successful communicate with the business server!
+[2015-07-13 10:43:34(912)]	---------------------Init Service--------------------------
+[2015-07-13 10:43:34(912)]	Current File Version: V5.2, Build Time:Jun  5 2015 21:57:48
+[2015-07-13 10:43:34(914)]	Load libbrservernetlayer.so success!(V5.2, Build time:Jun  5 2015 21:57:56)
+[2015-07-13 10:43:34(914)]	Start TCP Server Successed(port=8906)!
+[2015-07-13 10:43:34(914)]	Start UDP Server Successed(port=8907)!
+[2015-07-13 10:43:34(914)]	AnyChat IPC Filter Plus Init, Build Time:Jun  5 2015 21:57:58
+[2015-07-13 10:43:34(914)]	Load SDK Filter Plus:libipcfilterplus.so Success, ver:SDK Filter Plus (IPC), for Linux V5.2
+[2015-07-13 10:43:34(919)]	Start Server At Demo Mode!
+[2015-07-13 10:44:34(074)]	Successful communicate with the business server!
+[2015-07-13 10:47:51(664)]	Fails to communicate with the business server!
+[2015-07-13 10:48:00(424)]	AnyChatCoreServer has exited with error code:0
+[2015-07-13 14:26:21(943)]	---------------------Init Service--------------------------
+[2015-07-13 14:26:21(943)]	Current File Version: V5.2, Build Time:Jun  5 2015 21:57:48
+[2015-07-13 14:26:21(945)]	Load libbrservernetlayer.so success!(V5.2, Build time:Jun  5 2015 21:57:56)
+[2015-07-13 14:26:21(945)]	Start TCP Server Successed(port=8906)!
+[2015-07-13 14:26:21(945)]	Start UDP Server Successed(port=8907)!
+[2015-07-13 14:26:21(946)]	AnyChat IPC Filter Plus Init, Build Time:Jun  5 2015 21:57:58
+[2015-07-13 14:26:21(946)]	Load SDK Filter Plus:libipcfilterplus.so Success, ver:SDK Filter Plus (IPC), for Linux V5.2
+[2015-07-13 14:26:21(952)]	Start Server At Demo Mode!
+[2015-07-13 20:22:37(972)]	AnyChatCoreServer has exited with error code:0
+[2015-07-13 21:41:38(738)]	---------------------Init Service--------------------------
+[2015-07-13 21:41:38(739)]	Current File Version: V5.2, Build Time:Jun  5 2015 21:57:48
+[2015-07-13 21:41:38(753)]	Load libbrservernetlayer.so success!(V5.2, Build time:Jun  5 2015 21:57:56)
+[2015-07-13 21:41:38(754)]	Start TCP Server Successed(port=8906)!
+[2015-07-13 21:41:38(754)]	Start UDP Server Successed(port=8907)!
+[2015-07-13 21:41:38(766)]	AnyChat IPC Filter Plus Init, Build Time:Jun  5 2015 21:57:58
+[2015-07-13 21:41:38(766)]	Load SDK Filter Plus:libipcfilterplus.so Success, ver:SDK Filter Plus (IPC), for Linux V5.2
+[2015-07-13 21:41:38(774)]	Start Server At Demo Mode!
+[2015-07-13 21:44:28(311)]	AnyChatCoreServer has exited with error code:0
+[2015-07-13 21:44:45(768)]	---------------------Init Service--------------------------
+[2015-07-13 21:44:45(770)]	Current File Version: V5.2, Build Time:Jun  5 2015 21:57:48
+[2015-07-13 21:44:45(773)]	Load libbrservernetlayer.so success!(V5.2, Build time:Jun  5 2015 21:57:56)
+[2015-07-13 21:44:45(773)]	Start TCP Server Successed(port=8906)!
+[2015-07-13 21:44:45(774)]	Start UDP Server Successed(port=8907)!
+[2015-07-13 21:44:45(774)]	AnyChat IPC Filter Plus Init, Build Time:Jun  5 2015 21:57:58
+[2015-07-13 21:44:45(774)]	Load SDK Filter Plus:libipcfilterplus.so Success, ver:SDK Filter Plus (IPC), for Linux V5.2
+[2015-07-13 21:44:45(784)]	Start Server At Demo Mode!
+[2015-07-13 21:44:54(379)]	AnyChatCoreServer has exited with error code:0
+[2015-07-13 21:45:02(216)]	---------------------Init Service--------------------------
+[2015-07-13 21:45:02(216)]	Current File Version: V5.2, Build Time:Jun  5 2015 21:57:48
+[2015-07-13 21:45:02(220)]	Load libbrservernetlayer.so success!(V5.2, Build time:Jun  5 2015 21:57:56)
+[2015-07-13 21:45:02(220)]	Start TCP Server Successed(port=8906)!
+[2015-07-13 21:45:02(221)]	Start UDP Server Successed(port=8907)!
+[2015-07-13 21:45:02(222)]	AnyChat IPC Filter Plus Init, Build Time:Jun  5 2015 21:57:58
+[2015-07-13 21:45:02(222)]	Load SDK Filter Plus:libipcfilterplus.so Success, ver:SDK Filter Plus (IPC), for Linux V5.2
+[2015-07-13 21:45:02(231)]	Start Server At Demo Mode!
+[2015-07-13 21:45:09(718)]	AnyChatCoreServer has exited with error code:0
+[2015-07-14 10:40:30(707)]	---------------------Init Service--------------------------
+[2015-07-14 10:40:30(707)]	Current File Version: V5.2, Build Time:Jun  5 2015 21:57:48
+[2015-07-14 10:40:30(709)]	Load libbrservernetlayer.so success!(V5.2, Build time:Jun  5 2015 21:57:56)
+[2015-07-14 10:40:30(709)]	Start TCP Server Successed(port=8906)!
+[2015-07-14 10:40:30(709)]	Start UDP Server Successed(port=8907)!
+[2015-07-14 10:40:30(710)]	AnyChat IPC Filter Plus Init, Build Time:Jun  5 2015 21:57:58
+[2015-07-14 10:40:30(710)]	Load SDK Filter Plus:libipcfilterplus.so Success, ver:SDK Filter Plus (IPC), for Linux V5.2
+[2015-07-14 10:40:30(716)]	Start Server At Demo Mode!
+[2015-07-15 11:33:31(630)]	---------------------Init Service--------------------------
+[2015-07-15 11:33:31(631)]	Current File Version: V5.2, Build Time:Jun  5 2015 21:57:48
+[2015-07-15 11:33:31(646)]	Load libbrservernetlayer.so success!(V5.2, Build time:Jun  5 2015 21:57:56)
+[2015-07-15 11:33:31(646)]	Start TCP Server Successed(port=8906)!
+[2015-07-15 11:33:31(646)]	Start UDP Server Successed(port=8907)!
+[2015-07-15 11:33:31(652)]	AnyChat IPC Filter Plus Init, Build Time:Jun  5 2015 21:57:58
+[2015-07-15 11:33:31(653)]	Load SDK Filter Plus:libipcfilterplus.so Success, ver:SDK Filter Plus (IPC), for Linux V5.2
+[2015-07-15 11:33:31(660)]	Start Server At Demo Mode!
+[2015-07-18 15:18:51(166)]	---------------------Init Service--------------------------
+[2015-07-18 15:18:51(166)]	Current File Version: V5.2, Build Time:Jun  5 2015 21:57:48
+[2015-07-18 15:18:51(181)]	Load libbrservernetlayer.so success!(V5.2, Build time:Jun  5 2015 21:57:56)
+[2015-07-18 15:18:51(181)]	Start TCP Server Successed(port=8906)!
+[2015-07-18 15:18:51(188)]	Start UDP Server Successed(port=8907)!
+[2015-07-18 15:18:51(196)]	AnyChat IPC Filter Plus Init, Build Time:Jun  5 2015 21:57:58
+[2015-07-18 15:18:51(196)]	Load SDK Filter Plus:libipcfilterplus.so Success, ver:SDK Filter Plus (IPC), for Linux V5.2
+[2015-07-18 15:18:51(203)]	Start Server At Demo Mode!
+[2015-07-18 15:27:38(657)]	Successful communicate with the business server!
+[2015-07-18 15:39:29(682)]	Fails to communicate with the business server!
+[2015-07-18 15:39:30(406)]	Successful communicate with the business server!
+[2015-07-18 15:39:33(834)]	AnyChatCoreServer has exited with error code:0
+[2015-07-18 15:40:50(372)]	---------------------Init Service--------------------------
+[2015-07-18 15:40:50(372)]	Current File Version: V5.2, Build Time:Jun  5 2015 21:57:48
+[2015-07-18 15:40:50(373)]	Load libbrservernetlayer.so success!(V5.2, Build time:Jun  5 2015 21:57:56)
+[2015-07-18 15:40:50(374)]	Start TCP Server Successed(port=8906)!
+[2015-07-18 15:40:50(374)]	Start UDP Server Successed(port=8907)!
+[2015-07-18 15:40:50(374)]	AnyChat IPC Filter Plus Init, Build Time:Jun  5 2015 21:57:58
+[2015-07-18 15:40:50(374)]	Load SDK Filter Plus:libipcfilterplus.so Success, ver:SDK Filter Plus (IPC), for Linux V5.2
+[2015-07-18 15:40:50(380)]	Start Server At Demo Mode!
+[2015-07-18 15:40:51(418)]	Successful communicate with the business server!
+[2015-07-18 15:52:11(369)]	---------------------Init Service--------------------------
+[2015-07-18 15:52:11(370)]	Current File Version: V5.2, Build Time:Jun  5 2015 21:57:48
+[2015-07-18 15:52:11(371)]	Load libbrservernetlayer.so success!(V5.2, Build time:Jun  5 2015 21:57:56)
+[2015-07-18 15:52:11(371)]	Start TCP Server Successed(port=8906)!
+[2015-07-18 15:52:11(371)]	Start UDP Server Successed(port=8907)!
+[2015-07-18 15:52:11(372)]	AnyChat IPC Filter Plus Init, Build Time:Jun  5 2015 21:57:58
+[2015-07-18 15:52:11(372)]	Load SDK Filter Plus:libipcfilterplus.so Success, ver:SDK Filter Plus (IPC), for Linux V5.2
+[2015-07-18 15:52:11(376)]	Start Server At Demo Mode!
+[2015-07-18 15:52:33(139)]	Successful communicate with the business server!
+[2015-07-18 16:15:51(977)]	Fails to communicate with the business server!
+[2015-07-18 16:16:06(217)]	Successful communicate with the business server!
+[2015-07-19 14:10:39(896)]	---------------------Init Service--------------------------
+[2015-07-19 14:10:39(897)]	Current File Version: V5.2, Build Time:Jun  5 2015 21:57:48
+[2015-07-19 14:10:39(910)]	Load libbrservernetlayer.so success!(V5.2, Build time:Jun  5 2015 21:57:56)
+[2015-07-19 14:10:39(910)]	Start TCP Server Successed(port=8906)!
+[2015-07-19 14:10:39(910)]	Start UDP Server Successed(port=8907)!
+[2015-07-19 14:10:39(915)]	AnyChat IPC Filter Plus Init, Build Time:Jun  5 2015 21:57:58
+[2015-07-19 14:10:39(915)]	Load SDK Filter Plus:libipcfilterplus.so Success, ver:SDK Filter Plus (IPC), for Linux V5.2
+[2015-07-19 14:10:39(922)]	Start Server At Demo Mode!
+[2015-07-19 14:11:18(811)]	Successful communicate with the business server!
+[2015-07-19 19:47:00(305)]	Fails to communicate with the business server!
+[2015-07-19 19:47:52(309)]	Successful communicate with the business server!
+[2015-07-19 19:52:29(388)]	Fails to communicate with the business server!
+[2015-07-19 19:52:48(370)]	Successful communicate with the business server!
+[2015-07-19 19:52:55(879)]	Fails to communicate with the business server!
+[2015-07-19 19:53:29(551)]	Successful communicate with the business server!
+[2015-07-19 20:00:12(787)]	AnyChatCoreServer has exited with error code:0
+[2015-07-19 20:00:20(408)]	---------------------Init Service--------------------------
+[2015-07-19 20:00:20(408)]	Current File Version: V5.2, Build Time:Jun  5 2015 21:57:48
+[2015-07-19 20:00:20(412)]	Load libbrservernetlayer.so success!(V5.2, Build time:Jun  5 2015 21:57:56)
+[2015-07-19 20:00:20(412)]	Start TCP Server Successed(port=8906)!
+[2015-07-19 20:00:20(412)]	Start UDP Server Successed(port=8907)!
+[2015-07-19 20:00:20(413)]	AnyChat IPC Filter Plus Init, Build Time:Jun  5 2015 21:57:58
+[2015-07-19 20:00:20(413)]	Load SDK Filter Plus:libipcfilterplus.so Success, ver:SDK Filter Plus (IPC), for Linux V5.2
+[2015-07-19 20:00:20(419)]	Start Server At Demo Mode!
+[2015-07-21 14:51:17(828)]	---------------------Init Service--------------------------
+[2015-07-21 14:51:17(828)]	Current File Version: V5.2, Build Time:Jun  5 2015 21:57:48
+[2015-07-21 14:51:17(844)]	Load libbrservernetlayer.so success!(V5.2, Build time:Jun  5 2015 21:57:56)
+[2015-07-21 14:51:17(844)]	Start TCP Server Successed(port=8906)!
+[2015-07-21 14:51:17(844)]	Start UDP Server Successed(port=8907)!
+[2015-07-21 14:51:17(859)]	AnyChat IPC Filter Plus Init, Build Time:Jun  5 2015 21:57:58
+[2015-07-21 14:51:17(859)]	Load SDK Filter Plus:libipcfilterplus.so Success, ver:SDK Filter Plus (IPC), for Linux V5.2
+[2015-07-21 14:51:17(865)]	Start Server At Demo Mode!
+[2015-07-21 14:51:18(904)]	Successful communicate with the business server!
+[2015-07-21 18:32:49(435)]	Fails to communicate with the business server!
+[2015-07-21 18:32:50(441)]	Successful communicate with the business server!
+[2015-07-21 18:32:53(416)]	Fails to communicate with the business server!
+[2015-07-21 19:15:50(007)]	Successful communicate with the business server!
+[2015-07-21 19:16:05(094)]	Fails to communicate with the business server!
+[2015-07-21 19:16:20(995)]	Successful communicate with the business server!
+[2015-07-21 19:16:22(476)]	Fails to communicate with the business server!
+[2015-07-21 20:43:35(747)]	AnyChatCoreServer has exited with error code:0
+[2015-07-23 11:20:37(281)]	---------------------Init Service--------------------------
+[2015-07-23 11:20:37(281)]	Current File Version: V5.2, Build Time:Jun  5 2015 21:57:48
+[2015-07-23 11:20:37(296)]	Load libbrservernetlayer.so success!(V5.2, Build time:Jun  5 2015 21:57:56)
+[2015-07-23 11:20:37(296)]	Start TCP Server Successed(port=8906)!
+[2015-07-23 11:20:37(297)]	Start UDP Server Successed(port=8907)!
+[2015-07-23 11:20:37(303)]	AnyChat IPC Filter Plus Init, Build Time:Jun  5 2015 21:57:58
+[2015-07-23 11:20:37(303)]	Load SDK Filter Plus:libipcfilterplus.so Success, ver:SDK Filter Plus (IPC), for Linux V5.2
+[2015-07-23 11:20:37(315)]	Start Server At Demo Mode!
+[2015-07-23 13:52:17(887)]	AnyChatCoreServer has exited with error code:0
+[2015-07-23 13:52:20(615)]	---------------------Init Service--------------------------
+[2015-07-23 13:52:20(617)]	Current File Version: V5.2, Build Time:Jun  5 2015 21:57:48
+[2015-07-23 13:52:20(619)]	Load libbrservernetlayer.so success!(V5.2, Build time:Jun  5 2015 21:57:56)
+[2015-07-23 13:52:20(619)]	Start TCP Server Successed(port=8906)!
+[2015-07-23 13:52:20(619)]	Start UDP Server Successed(port=8907)!
+[2015-07-23 13:52:20(619)]	AnyChat IPC Filter Plus Init, Build Time:Jun  5 2015 21:57:58
+[2015-07-23 13:52:20(619)]	Load SDK Filter Plus:libipcfilterplus.so Success, ver:SDK Filter Plus (IPC), for Linux V5.2
+[2015-07-23 13:52:20(624)]	Start Server At Demo Mode!
+[2015-07-23 14:22:09(252)]	Successful communicate with the business server!
+[2015-07-23 14:24:55(335)]	Fails to communicate with the business server!
+[2015-07-24 15:44:21(652)]	---------------------Init Service--------------------------
+[2015-07-24 15:44:21(652)]	Current File Version: V5.2, Build Time:Jun  5 2015 21:57:48
+[2015-07-24 15:44:21(653)]	Load libbrservernetlayer.so success!(V5.2, Build time:Jun  5 2015 21:57:56)
+[2015-07-24 15:44:21(653)]	Start TCP Server Successed(port=8906)!
+[2015-07-24 15:44:21(653)]	Start UDP Server Successed(port=8907)!
+[2015-07-24 15:44:21(678)]	AnyChat IPC Filter Plus Init, Build Time:Jun  5 2015 21:57:58
+[2015-07-24 15:44:21(678)]	Load SDK Filter Plus:libipcfilterplus.so Success, ver:SDK Filter Plus (IPC), for Linux V5.2
+[2015-07-24 15:44:21(684)]	Start Server At Demo Mode!
+[2015-07-24 21:16:37(462)]	Successful communicate with the business server!
+[2015-07-24 21:52:18(453)]	Fails to communicate with the business server!
+[2015-07-26 10:44:03(547)]	---------------------Init Service--------------------------
+[2015-07-26 10:44:03(559)]	Current File Version: V5.2, Build Time:Jun  5 2015 21:57:48
+[2015-07-26 10:44:03(572)]	Load libbrservernetlayer.so success!(V5.2, Build time:Jun  5 2015 21:57:56)
+[2015-07-26 10:44:03(573)]	Start TCP Server Successed(port=8906)!
+[2015-07-26 10:44:03(573)]	Start UDP Server Successed(port=8907)!
+[2015-07-26 10:44:03(586)]	AnyChat IPC Filter Plus Init, Build Time:Jun  5 2015 21:57:58
+[2015-07-26 10:44:03(586)]	Load SDK Filter Plus:libipcfilterplus.so Success, ver:SDK Filter Plus (IPC), for Linux V5.2
+[2015-07-26 10:44:03(593)]	Start Server At Demo Mode!
+[2015-07-26 10:44:25(803)]	Successful communicate with the business server!
+[2015-07-26 10:44:31(521)]	Fails to communicate with the business server!
+[2015-07-26 11:20:12(532)]	Successful communicate with the business server!
+[2015-07-26 11:22:15(881)]	Fails to communicate with the business server!
+[2015-07-26 11:22:27(320)]	Successful communicate with the business server!
+[2015-07-26 12:29:01(762)]	Fails to communicate with the business server!
+[2015-07-26 12:29:04(343)]	Successful communicate with the business server!
+[2015-07-26 12:35:59(730)]	Fails to communicate with the business server!
+[2015-07-26 12:36:02(452)]	Successful communicate with the business server!
+[2015-07-26 13:06:51(220)]	Fails to communicate with the business server!
+[2015-07-26 14:22:21(529)]	Successful communicate with the business server!
+[2015-07-26 14:27:16(038)]	Fails to communicate with the business server!
+[2015-07-26 14:27:18(637)]	Successful communicate with the business server!
+[2015-07-26 14:45:25(789)]	Fails to communicate with the business server!
+[2015-07-26 14:45:28(375)]	Successful communicate with the business server!
+[2015-07-26 14:46:50(908)]	Fails to communicate with the business server!
+[2015-07-26 14:46:53(722)]	Successful communicate with the business server!
+[2015-07-26 14:48:15(381)]	Fails to communicate with the business server!
+[2015-07-26 14:48:17(871)]	Successful communicate with the business server!
+[2015-07-26 14:48:46(516)]	Fails to communicate with the business server!
+[2015-07-26 14:48:49(043)]	Successful communicate with the business server!
+[2015-07-26 14:52:04(411)]	Fails to communicate with the business server!
+[2015-07-26 14:52:07(051)]	Successful communicate with the business server!
+[2015-07-26 14:54:04(307)]	Fails to communicate with the business server!
+[2015-07-26 14:54:06(990)]	Successful communicate with the business server!
+[2015-07-26 14:54:51(218)]	Fails to communicate with the business server!
+[2015-07-26 14:55:10(935)]	Successful communicate with the business server!
+[2015-07-26 15:01:20(618)]	Fails to communicate with the business server!
+[2015-07-26 15:02:30(431)]	Successful communicate with the business server!
+[2015-07-26 15:06:50(745)]	Fails to communicate with the business server!
+[2015-07-26 15:06:53(299)]	Successful communicate with the business server!
+[2015-07-26 15:15:51(654)]	Fails to communicate with the business server!
+[2015-07-26 15:15:54(514)]	Successful communicate with the business server!
+[2015-07-26 15:17:18(991)]	Fails to communicate with the business server!
+[2015-07-26 15:17:19(675)]	Successful communicate with the business server!
+[2015-07-26 15:21:37(026)]	Fails to communicate with the business server!
+[2015-07-26 16:23:21(187)]	Successful communicate with the business server!
+[2015-07-26 17:04:24(284)]	Fails to communicate with the business server!
+[2015-07-26 19:48:48(584)]	AnyChatCoreServer has exited with error code:0
+[2015-07-27 10:08:30(537)]	---------------------Init Service--------------------------
+[2015-07-27 10:08:30(537)]	Current File Version: V5.2, Build Time:Jun  5 2015 21:57:48
+[2015-07-27 10:08:30(540)]	Load libbrservernetlayer.so success!(V5.2, Build time:Jun  5 2015 21:57:56)
+[2015-07-27 10:08:30(540)]	Start TCP Server Successed(port=8906)!
+[2015-07-27 10:08:30(540)]	Start UDP Server Successed(port=8907)!
+[2015-07-27 10:08:30(541)]	AnyChat IPC Filter Plus Init, Build Time:Jun  5 2015 21:57:58
+[2015-07-27 10:08:30(541)]	Load SDK Filter Plus:libipcfilterplus.so Success, ver:SDK Filter Plus (IPC), for Linux V5.2
+[2015-07-27 10:08:30(548)]	Start Server At Demo Mode!
+[2015-07-27 10:40:04(889)]	Successful communicate with the business server!
+[2015-07-28 09:11:44(384)]	AnyChatCoreServer has exited with error code:0
+[2015-07-28 09:11:47(216)]	---------------------Init Service--------------------------
+[2015-07-28 09:11:47(216)]	Current File Version: V5.2, Build Time:Jun  5 2015 21:57:48
+[2015-07-28 09:11:47(217)]	Load libbrservernetlayer.so success!(V5.2, Build time:Jun  5 2015 21:57:56)
+[2015-07-28 09:11:47(217)]	Start TCP Server Successed(port=8906)!
+[2015-07-28 09:11:47(217)]	Start UDP Server Successed(port=8907)!
+[2015-07-28 09:11:47(218)]	AnyChat IPC Filter Plus Init, Build Time:Jun  5 2015 21:57:58
+[2015-07-28 09:11:47(218)]	Load SDK Filter Plus:libipcfilterplus.so Success, ver:SDK Filter Plus (IPC), for Linux V5.2
+[2015-07-28 09:11:47(222)]	Start Server At Demo Mode!
+[2015-07-28 09:11:47(741)]	Successful communicate with the business server!
+[2015-07-29 10:01:08(376)]	---------------------Init Service--------------------------
+[2015-07-29 10:01:08(383)]	Current File Version: V5.2, Build Time:Jun  5 2015 21:57:48
+[2015-07-29 10:01:08(392)]	Load libbrservernetlayer.so success!(V5.2, Build time:Jun  5 2015 21:57:56)
+[2015-07-29 10:01:08(392)]	Start TCP Server Successed(port=8906)!
+[2015-07-29 10:01:08(392)]	Start UDP Server Successed(port=8907)!
+[2015-07-29 10:01:08(403)]	AnyChat IPC Filter Plus Init, Build Time:Jun  5 2015 21:57:58
+[2015-07-29 10:01:08(403)]	Load SDK Filter Plus:libipcfilterplus.so Success, ver:SDK Filter Plus (IPC), for Linux V5.2
+[2015-07-29 10:01:08(410)]	Start Server At Demo Mode!
+[2015-07-29 10:12:44(595)]	Successful communicate with the business server!
+[2015-07-29 10:54:09(393)]	Fails to communicate with the business server!
+[2015-07-29 14:18:26(217)]	Successful communicate with the business server!
+[2015-07-29 16:49:11(633)]	Fails to communicate with the business server!
+[2015-07-29 16:49:30(147)]	Successful communicate with the business server!
+[2015-07-29 17:12:41(095)]	Fails to communicate with the business server!
+[2015-07-29 17:12:45(112)]	Successful communicate with the business server!
+[2015-07-29 17:12:57(959)]	Fails to communicate with the business server!
+[2015-07-29 17:13:11(565)]	Successful communicate with the business server!
+[2015-07-29 17:19:49(458)]	Fails to communicate with the business server!
+[2015-07-29 17:19:53(502)]	Successful communicate with the business server!
+[2015-07-29 17:26:25(775)]	Fails to communicate with the business server!
+[2015-07-29 17:26:30(372)]	Successful communicate with the business server!
+[2015-07-30 09:13:57(559)]	---------------------Init Service--------------------------
+[2015-07-30 09:13:57(570)]	Current File Version: V5.2, Build Time:Jun  5 2015 21:57:48
+[2015-07-30 09:13:57(590)]	Load libbrservernetlayer.so success!(V5.2, Build time:Jun  5 2015 21:57:56)
+[2015-07-30 09:13:57(590)]	Start TCP Server Successed(port=8906)!
+[2015-07-30 09:13:57(590)]	Start UDP Server Successed(port=8907)!
+[2015-07-30 09:13:57(601)]	AnyChat IPC Filter Plus Init, Build Time:Jun  5 2015 21:57:58
+[2015-07-30 09:13:57(605)]	Load SDK Filter Plus:libipcfilterplus.so Success, ver:SDK Filter Plus (IPC), for Linux V5.2
+[2015-07-30 09:13:57(615)]	Start Server At Demo Mode!
+[2015-07-30 09:17:37(282)]	Successful communicate with the business server!
+[2015-07-30 10:03:41(521)]	Fails to communicate with the business server!
+[2015-07-30 10:03:42(085)]	Successful communicate with the business server!
+[2015-07-30 10:03:43(131)]	Fails to communicate with the business server!
+[2015-07-30 10:03:50(632)]	Successful communicate with the business server!
+[2015-07-30 10:04:33(723)]	Fails to communicate with the business server!
+[2015-07-30 10:04:41(352)]	Successful communicate with the business server!
+[2015-07-30 10:20:06(810)]	Fails to communicate with the business server!
+[2015-07-30 10:22:45(630)]	Successful communicate with the business server!
+[2015-07-30 10:29:22(262)]	Fails to communicate with the business server!
+[2015-07-30 10:29:30(265)]	Successful communicate with the business server!
+[2015-07-30 10:36:15(236)]	Fails to communicate with the business server!
+[2015-07-30 10:41:35(604)]	Successful communicate with the business server!
+[2015-07-30 10:41:42(189)]	Fails to communicate with the business server!
+[2015-07-30 10:46:18(294)]	Successful communicate with the business server!
+[2015-07-30 10:52:48(714)]	Fails to communicate with the business server!
+[2015-07-30 10:53:00(300)]	Successful communicate with the business server!
+[2015-07-30 10:53:43(025)]	Fails to communicate with the business server!
+[2015-07-30 10:54:19(291)]	Successful communicate with the business server!
+[2015-07-30 10:55:02(198)]	Fails to communicate with the business server!
+[2015-07-30 11:06:08(446)]	Successful communicate with the business server!
+[2015-07-30 11:06:50(901)]	Fails to communicate with the business server!
+[2015-07-30 11:16:01(757)]	Successful communicate with the business server!
+[2015-07-30 11:16:43(909)]	Fails to communicate with the business server!
+[2015-07-30 11:18:37(288)]	Successful communicate with the business server!
+[2015-07-30 11:35:47(653)]	Fails to communicate with the business server!
+[2015-07-30 16:11:17(761)]	Successful communicate with the business server!
+[2015-07-30 16:12:00(357)]	Fails to communicate with the business server!
+[2015-07-30 16:29:14(732)]	Successful communicate with the business server!
+[2015-07-30 16:29:57(063)]	Fails to communicate with the business server!
+[2015-07-30 16:34:29(133)]	Successful communicate with the business server!
+[2015-07-30 16:35:50(972)]	Fails to communicate with the business server!
+[2015-07-30 16:35:54(494)]	Successful communicate with the business server!
+[2015-07-30 16:37:04(744)]	Fails to communicate with the business server!
+[2015-07-30 16:37:07(568)]	Successful communicate with the business server!
+[2015-07-30 16:37:50(440)]	Fails to communicate with the business server!
+[2015-07-30 16:42:38(117)]	Successful communicate with the business server!
+[2015-07-30 16:43:19(374)]	Fails to communicate with the business server!
+[2015-07-30 16:46:05(800)]	Successful communicate with the business server!
+[2015-07-30 16:46:47(958)]	Fails to communicate with the business server!
+[2015-07-30 19:25:11(449)]	AnyChatCoreServer has exited with error code:0
+[2015-07-30 20:01:33(719)]	---------------------Init Service--------------------------
+[2015-07-30 20:01:33(732)]	Current File Version: V5.2, Build Time:Jun  5 2015 21:57:48
+[2015-07-30 20:01:33(746)]	Load libbrservernetlayer.so success!(V5.2, Build time:Jun  5 2015 21:57:56)
+[2015-07-30 20:01:33(746)]	Start TCP Server Successed(port=8906)!
+[2015-07-30 20:01:33(746)]	Start UDP Server Successed(port=8907)!
+[2015-07-30 20:01:33(757)]	AnyChat IPC Filter Plus Init, Build Time:Jun  5 2015 21:57:58
+[2015-07-30 20:01:33(757)]	Load SDK Filter Plus:libipcfilterplus.so Success, ver:SDK Filter Plus (IPC), for Linux V5.2
+[2015-07-30 20:01:33(763)]	Start Server At Demo Mode!
+[2015-07-30 20:01:34(806)]	Successful communicate with the business server!
+[2015-07-30 20:01:54(968)]	Fails to communicate with the business server!
+[2015-07-30 20:02:00(845)]	Successful communicate with the business server!
+[2015-07-30 20:15:53(631)]	Fails to communicate with the business server!
+[2015-07-30 20:16:06(505)]	Successful communicate with the business server!
+[2015-07-30 20:16:49(369)]	Fails to communicate with the business server!
+[2015-07-30 20:29:58(975)]	Successful communicate with the business server!
+[2015-07-30 20:31:08(378)]	Fails to communicate with the business server!
+[2015-07-30 20:31:21(179)]	Successful communicate with the business server!
+[2015-07-30 20:32:03(875)]	Fails to communicate with the business server!
+[2015-07-30 20:42:32(114)]	Successful communicate with the business server!
+[2015-07-30 20:58:39(734)]	Fails to communicate with the business server!
+[2015-07-30 20:59:14(476)]	Successful communicate with the business server!
+[2015-07-30 20:59:41(292)]	Fails to communicate with the business server!
+[2015-07-30 21:00:42(658)]	Successful communicate with the business server!
+[2015-07-30 21:01:43(977)]	Fails to communicate with the business server!
+[2015-07-30 21:01:46(664)]	Successful communicate with the business server!
+[2015-07-30 21:02:29(559)]	Fails to communicate with the business server!
+[2015-07-30 21:02:50(769)]	Successful communicate with the business server!
+[2015-07-30 21:03:41(405)]	Fails to communicate with the business server!
+[2015-07-30 21:03:44(181)]	Successful communicate with the business server!
+[2015-07-30 21:04:12(802)]	Fails to communicate with the business server!
+[2015-07-30 21:04:51(134)]	Successful communicate with the business server!
+[2015-07-30 21:33:49(472)]	Fails to communicate with the business server!
+[2015-07-30 21:33:50(039)]	Successful communicate with the business server!
+[2015-07-30 21:34:00(579)]	Fails to communicate with the business server!
+[2015-07-30 21:35:19(414)]	Successful communicate with the business server!
+[2015-07-30 21:35:30(226)]	Fails to communicate with the business server!
+[2015-07-30 21:39:28(260)]	Successful communicate with the business server!
+[2015-07-30 21:39:53(751)]	Fails to communicate with the business server!
+[2015-07-30 21:49:41(739)]	Successful communicate with the business server!
+[2015-07-30 21:54:59(471)]	Fails to communicate with the business server!
+[2015-07-30 21:55:10(552)]	Successful communicate with the business server!
+[2015-07-30 22:01:21(416)]	Fails to communicate with the business server!
+[2015-07-30 22:01:24(506)]	Successful communicate with the business server!
+[2015-07-30 22:09:27(380)]	Fails to communicate with the business server!
+[2015-07-30 22:09:30(215)]	Successful communicate with the business server!
+[2015-07-30 22:17:01(391)]	Fails to communicate with the business server!
+[2015-07-30 22:17:04(223)]	AnyChatCoreServer has exited with error code:0
+[2015-07-31 10:34:14(323)]	---------------------Init Service--------------------------
+[2015-07-31 10:34:14(328)]	Current File Version: V5.2, Build Time:Jun  5 2015 21:57:48
+[2015-07-31 10:34:14(346)]	Load libbrservernetlayer.so success!(V5.2, Build time:Jun  5 2015 21:57:56)
+[2015-07-31 10:34:14(346)]	Start TCP Server Successed(port=8906)!
+[2015-07-31 10:34:14(346)]	Start UDP Server Successed(port=8907)!
+[2015-07-31 10:34:14(354)]	AnyChat IPC Filter Plus Init, Build Time:Jun  5 2015 21:57:58
+[2015-07-31 10:34:14(354)]	Load SDK Filter Plus:libipcfilterplus.so Success, ver:SDK Filter Plus (IPC), for Linux V5.2
+[2015-07-31 10:34:14(380)]	Start Server At Demo Mode!
+[2015-07-31 10:39:12(593)]	Successful communicate with the business server!
+[2015-07-31 10:58:51(808)]	Fails to communicate with the business server!
+[2015-07-31 15:54:53(090)]	Successful communicate with the business server!
+[2015-07-31 15:56:17(538)]	Fails to communicate with the business server!
+[2015-07-31 15:56:31(784)]	Successful communicate with the business server!
+[2015-07-31 15:57:44(042)]	Fails to communicate with the business server!
+[2015-07-31 15:58:24(936)]	Successful communicate with the business server!
+[2015-07-31 16:03:34(830)]	Fails to communicate with the business server!
+[2015-07-31 16:03:37(666)]	Successful communicate with the business server!
+[2015-07-31 16:16:57(503)]	Fails to communicate with the business server!
+[2015-07-31 16:17:00(161)]	Successful communicate with the business server!
+[2015-07-31 16:18:22(206)]	Fails to communicate with the business server!
+[2015-07-31 16:18:24(986)]	Successful communicate with the business server!
+[2015-07-31 16:19:17(826)]	Fails to communicate with the business server!
+[2015-07-31 16:24:00(638)]	Successful communicate with the business server!
+[2015-07-31 16:25:17(458)]	Fails to communicate with the business server!
+[2015-07-31 16:25:20(283)]	Successful communicate with the business server!
+[2015-07-31 16:26:38(301)]	Fails to communicate with the business server!
+[2015-07-31 16:26:41(011)]	Successful communicate with the business server!
+[2015-07-31 16:32:19(250)]	Fails to communicate with the business server!
+[2015-07-31 16:32:21(809)]	Successful communicate with the business server!
+[2015-07-31 16:35:18(733)]	Fails to communicate with the business server!
+[2015-07-31 16:35:21(914)]	Successful communicate with the business server!
+[2015-07-31 16:38:58(683)]	Fails to communicate with the business server!
+[2015-07-31 16:39:01(341)]	Successful communicate with the business server!
+[2015-07-31 16:40:00(220)]	Fails to communicate with the business server!
+[2015-07-31 16:40:02(687)]	Successful communicate with the business server!
+[2015-07-31 16:40:37(581)]	Fails to communicate with the business server!
+[2015-07-31 16:40:40(246)]	Successful communicate with the business server!
+[2015-07-31 16:54:13(381)]	Fails to communicate with the business server!
+[2015-07-31 17:09:53(462)]	Successful communicate with the business server!
+[2015-07-31 17:14:05(565)]	Fails to communicate with the business server!
+[2015-07-31 17:14:35(014)]	Successful communicate with the business server!
+[2015-07-31 17:15:16(846)]	Fails to communicate with the business server!
+[2015-07-31 17:19:14(806)]	Successful communicate with the business server!
+[2015-07-31 17:22:34(098)]	Fails to communicate with the business server!
+[2015-07-31 17:22:45(445)]	Successful communicate with the business server!
+[2015-07-31 17:24:03(641)]	Fails to communicate with the business server!
+[2015-07-31 17:24:06(233)]	Successful communicate with the business server!
+[2015-07-31 17:28:30(633)]	Fails to communicate with the business server!
+[2015-07-31 17:28:33(462)]	Successful communicate with the business server!
+[2015-07-31 17:33:37(375)]	Fails to communicate with the business server!
+[2015-07-31 17:33:40(015)]	Successful communicate with the business server!
+[2015-07-31 18:35:23(647)]	Fails to communicate with the business server!
+[2015-07-31 18:35:26(870)]	Successful communicate with the business server!
+[2015-07-31 18:41:31(274)]	Fails to communicate with the business server!
+[2015-07-31 18:41:34(270)]	Successful communicate with the business server!
+[2015-07-31 19:02:32(288)]	Fails to communicate with the business server!
+[2015-07-31 19:02:35(627)]	Successful communicate with the business server!
+[2015-07-31 19:06:09(593)]	Fails to communicate with the business server!
+[2015-07-31 19:06:12(469)]	Successful communicate with the business server!
+[2015-07-31 19:28:00(492)]	Fails to communicate with the business server!
+[2015-07-31 19:28:03(355)]	Successful communicate with the business server!
+[2015-07-31 19:53:32(990)]	Fails to communicate with the business server!
+[2015-07-31 19:54:02(217)]	AnyChatCoreServer has exited with error code:0
+[2015-08-01 09:06:54(478)]	---------------------Init Service--------------------------
+[2015-08-01 09:06:54(486)]	Current File Version: V5.2, Build Time:Jun  5 2015 21:57:48
+[2015-08-01 09:06:54(502)]	Load libbrservernetlayer.so success!(V5.2, Build time:Jun  5 2015 21:57:56)
+[2015-08-01 09:06:54(502)]	Start TCP Server Successed(port=8906)!
+[2015-08-01 09:06:54(502)]	Start UDP Server Successed(port=8907)!
+[2015-08-01 09:06:54(517)]	AnyChat IPC Filter Plus Init, Build Time:Jun  5 2015 21:57:58
+[2015-08-01 09:06:54(517)]	Load SDK Filter Plus:libipcfilterplus.so Success, ver:SDK Filter Plus (IPC), for Linux V5.2
+[2015-08-01 09:06:54(524)]	Start Server At Demo Mode!
+[2015-08-01 10:26:48(621)]	Successful communicate with the business server!
+[2015-08-01 10:29:38(313)]	Fails to communicate with the business server!
+[2015-08-01 10:29:41(081)]	Successful communicate with the business server!
+[2015-08-01 10:33:30(521)]	Fails to communicate with the business server!
+[2015-08-01 10:33:33(098)]	Successful communicate with the business server!
+[2015-08-01 10:35:26(129)]	Fails to communicate with the business server!
+[2015-08-01 10:35:28(539)]	Successful communicate with the business server!
+[2015-08-01 10:39:55(658)]	Fails to communicate with the business server!
+[2015-08-04 19:16:27(229)]	---------------------Init Service--------------------------
+[2015-08-04 19:16:27(236)]	Current File Version: V5.2, Build Time:Jun  5 2015 21:57:48
+[2015-08-04 19:16:27(245)]	Load libbrservernetlayer.so success!(V5.2, Build time:Jun  5 2015 21:57:56)
+[2015-08-04 19:16:27(245)]	Start TCP Server Successed(port=8906)!
+[2015-08-04 19:16:27(246)]	Start UDP Server Successed(port=8907)!
+[2015-08-04 19:16:27(251)]	AnyChat IPC Filter Plus Init, Build Time:Jun  5 2015 21:57:58
+[2015-08-04 19:16:27(251)]	Load SDK Filter Plus:libipcfilterplus.so Success, ver:SDK Filter Plus (IPC), for Linux V5.2
+[2015-08-04 19:16:27(258)]	Start Server At Demo Mode!
+[2015-08-04 19:17:46(753)]	Successful communicate with the business server!
+[2015-08-04 19:17:48(163)]	Fails to communicate with the business server!
+[2015-08-04 19:18:25(472)]	Successful communicate with the business server!
+[2015-08-04 19:34:58(024)]	Fails to communicate with the business server!
+[2015-08-04 19:50:01(990)]	AnyChatCoreServer has exited with error code:0
+[2015-08-05 10:37:58(762)]	---------------------Init Service--------------------------
+[2015-08-05 10:37:58(769)]	Current File Version: V5.2, Build Time:Jun  5 2015 21:57:48
+[2015-08-05 10:37:58(786)]	Load libbrservernetlayer.so success!(V5.2, Build time:Jun  5 2015 21:57:56)
+[2015-08-05 10:37:58(786)]	Start TCP Server Successed(port=8906)!
+[2015-08-05 10:37:58(787)]	Start UDP Server Successed(port=8907)!
+[2015-08-05 10:37:58(792)]	AnyChat IPC Filter Plus Init, Build Time:Jun  5 2015 21:57:58
+[2015-08-05 10:37:58(792)]	Load SDK Filter Plus:libipcfilterplus.so Success, ver:SDK Filter Plus (IPC), for Linux V5.2
+[2015-08-05 10:37:58(799)]	Start Server At Demo Mode!
+[2015-08-05 10:39:09(169)]	Successful communicate with the business server!
+[2015-08-27 14:14:07(009)]	---------------------Init Service--------------------------
+[2015-08-27 14:14:07(016)]	Current File Version: V5.2, Build Time:Jun  5 2015 21:57:48
+[2015-08-27 14:14:07(032)]	Load libbrservernetlayer.so success!(V5.2, Build time:Jun  5 2015 21:57:56)
+[2015-08-27 14:14:07(032)]	Start TCP Server Successed(port=8906)!
+[2015-08-27 14:14:07(033)]	Start UDP Server Successed(port=8907)!
+[2015-08-27 14:14:07(042)]	AnyChat IPC Filter Plus Init, Build Time:Jun  5 2015 21:57:58
+[2015-08-27 14:14:07(042)]	Load SDK Filter Plus:libipcfilterplus.so Success, ver:SDK Filter Plus (IPC), for Linux V5.2
+[2015-08-27 14:14:07(049)]	Start Server At Demo Mode!
+[2015-08-27 14:14:38(757)]	Successful communicate with the business server!
+[2015-08-27 19:06:37(856)]	Fails to communicate with the business server!
+[2015-08-27 19:06:40(747)]	Successful communicate with the business server!
+[2015-08-27 21:07:16(749)]	Fails to communicate with the business server!
+[2015-09-01 19:04:10(391)]	---------------------Init Service--------------------------
+[2015-09-01 19:04:10(402)]	Current File Version: V5.2, Build Time:Jun  5 2015 21:57:48
+[2015-09-01 19:04:10(415)]	Load libbrservernetlayer.so success!(V5.2, Build time:Jun  5 2015 21:57:56)
+[2015-09-01 19:04:10(415)]	Start TCP Server Successed(port=8906)!
+[2015-09-01 19:04:10(415)]	Start UDP Server Successed(port=8907)!
+[2015-09-01 19:04:10(422)]	AnyChat IPC Filter Plus Init, Build Time:Jun  5 2015 21:57:58
+[2015-09-01 19:04:10(422)]	Load SDK Filter Plus:libipcfilterplus.so Success, ver:SDK Filter Plus (IPC), for Linux V5.2
+[2015-09-01 19:04:10(446)]	Start Server At Demo Mode!
+[2015-09-01 19:30:59(187)]	AnyChatCoreServer has exited with error code:0
+[2015-09-01 19:47:56(723)]	---------------------Init Service--------------------------
+[2015-09-01 19:47:56(724)]	Current File Version: V5.2, Build Time:Jun  5 2015 21:57:48
+[2015-09-01 19:47:56(729)]	Load libbrservernetlayer.so success!(V5.2, Build time:Jun  5 2015 21:57:56)
+[2015-09-01 19:47:56(730)]	Start TCP Server Successed(port=8906)!
+[2015-09-01 19:47:56(730)]	Start UDP Server Successed(port=8907)!
+[2015-09-01 19:47:56(731)]	AnyChat IPC Filter Plus Init, Build Time:Jun  5 2015 21:57:58
+[2015-09-01 19:47:56(731)]	Load SDK Filter Plus:libipcfilterplus.so Success, ver:SDK Filter Plus (IPC), for Linux V5.2
+[2015-09-01 19:47:56(737)]	Start Server At Demo Mode!
+[2015-09-01 19:48:14(577)]	Successful communicate with the business server!
+[2015-09-01 20:03:44(599)]	Fails to communicate with the business server!
+[2015-09-01 20:03:54(371)]	AnyChatCoreServer has exited with error code:0
+[2015-09-07 21:09:56(111)]	---------------------Init Service--------------------------
+[2015-09-07 21:09:56(130)]	Current File Version: V5.2, Build Time:Jun  5 2015 21:57:48
+[2015-09-07 21:09:56(162)]	Load libbrservernetlayer.so success!(V5.2, Build time:Jun  5 2015 21:57:56)
+[2015-09-07 21:09:56(162)]	Start TCP Server Successed(port=8906)!
+[2015-09-07 21:09:56(165)]	Start UDP Server Successed(port=8907)!
+[2015-09-07 21:09:56(175)]	AnyChat IPC Filter Plus Init, Build Time:Jun  5 2015 21:57:58
+[2015-09-07 21:09:56(175)]	Load SDK Filter Plus:libipcfilterplus.so Success, ver:SDK Filter Plus (IPC), for Linux V5.2
+[2015-09-07 21:09:56(182)]	Start Server At Demo Mode!
+[2015-09-08 08:56:04(058)]	---------------------Init Service--------------------------
+[2015-09-08 08:56:04(069)]	Current File Version: V5.2, Build Time:Jun  5 2015 21:57:48
+[2015-09-08 08:56:04(089)]	Load libbrservernetlayer.so success!(V5.2, Build time:Jun  5 2015 21:57:56)
+[2015-09-08 08:56:04(089)]	Start TCP Server Successed(port=8906)!
+[2015-09-08 08:56:04(090)]	Start UDP Server Successed(port=8907)!
+[2015-09-08 08:56:04(097)]	AnyChat IPC Filter Plus Init, Build Time:Jun  5 2015 21:57:58
+[2015-09-08 08:56:04(097)]	Load SDK Filter Plus:libipcfilterplus.so Success, ver:SDK Filter Plus (IPC), for Linux V5.2
+[2015-09-08 08:56:04(103)]	Start Server At Demo Mode!
+[2015-09-08 08:56:20(313)]	Successful communicate with the business server!
+[2015-09-08 21:24:26(248)]	---------------------Init Service--------------------------
+[2015-09-08 21:24:26(249)]	Current File Version: V5.2, Build Time:Jun  5 2015 21:57:48
+[2015-09-08 21:24:26(250)]	Load libbrservernetlayer.so success!(V5.2, Build time:Jun  5 2015 21:57:56)
+[2015-09-08 21:24:26(250)]	Start TCP Server Successed(port=8906)!
+[2015-09-08 21:24:26(251)]	Start UDP Server Successed(port=8907)!
+[2015-09-08 21:24:26(251)]	AnyChat IPC Filter Plus Init, Build Time:Jun  5 2015 21:57:58
+[2015-09-08 21:24:26(251)]	Load SDK Filter Plus:libipcfilterplus.so Success, ver:SDK Filter Plus (IPC), for Linux V5.2
+[2015-09-08 21:24:26(257)]	Start Server At Demo Mode!
+[2015-09-08 21:24:49(559)]	Successful communicate with the business server!
+[2015-09-08 21:30:19(108)]	Fails to communicate with the business server!
+[2015-09-10 08:40:43(077)]	---------------------Init Service--------------------------
+[2015-09-10 08:40:43(104)]	Current File Version: V5.2, Build Time:Jun  5 2015 21:57:48
+[2015-09-10 08:40:43(129)]	Load libbrservernetlayer.so success!(V5.2, Build time:Jun  5 2015 21:57:56)
+[2015-09-10 08:40:43(129)]	Start TCP Server Successed(port=8906)!
+[2015-09-10 08:40:43(129)]	Start UDP Server Successed(port=8907)!
+[2015-09-10 08:40:43(141)]	AnyChat IPC Filter Plus Init, Build Time:Jun  5 2015 21:57:58
+[2015-09-10 08:40:43(141)]	Load SDK Filter Plus:libipcfilterplus.so Success, ver:SDK Filter Plus (IPC), for Linux V5.2
+[2015-09-10 08:40:43(146)]	Start Server At Demo Mode!
+[2015-09-10 08:41:16(905)]	Successful communicate with the business server!
+[2015-09-10 09:28:08(799)]	Fails to communicate with the business server!
+[2015-09-13 16:16:00(953)]	---------------------Init Service--------------------------
+[2015-09-13 16:16:00(963)]	Current File Version: V5.2, Build Time:Jun  5 2015 21:57:48
+[2015-09-13 16:16:00(995)]	Load libbrservernetlayer.so success!(V5.2, Build time:Jun  5 2015 21:57:56)
+[2015-09-13 16:16:00(995)]	Start TCP Server Successed(port=8906)!
+[2015-09-13 16:16:00(995)]	Start UDP Server Successed(port=8907)!
+[2015-09-13 16:16:01(016)]	AnyChat IPC Filter Plus Init, Build Time:Jun  5 2015 21:57:58
+[2015-09-13 16:16:01(017)]	Load SDK Filter Plus:libipcfilterplus.so Success, ver:SDK Filter Plus (IPC), for Linux V5.2
+[2015-09-13 16:16:01(023)]	Start Server At Demo Mode!
+[2015-09-13 16:17:09(836)]	Successful communicate with the business server!
+[2015-09-13 20:21:52(329)]	Fails to communicate with the business server!
+[2015-09-29 21:37:44(149)]	---------------------Init Service--------------------------
+[2015-09-29 21:37:44(158)]	Current File Version: V5.2, Build Time:Jun  5 2015 21:57:48
+[2015-09-29 21:37:44(173)]	Load libbrservernetlayer.so success!(V5.2, Build time:Jun  5 2015 21:57:56)
+[2015-09-29 21:37:44(173)]	Start TCP Server Successed(port=8906)!
+[2015-09-29 21:37:44(173)]	Start UDP Server Successed(port=8907)!
+[2015-09-29 21:37:44(186)]	AnyChat IPC Filter Plus Init, Build Time:Jun  5 2015 21:57:58
+[2015-09-29 21:37:44(186)]	Load SDK Filter Plus:libipcfilterplus.so Success, ver:SDK Filter Plus (IPC), for Linux V5.2
+[2015-09-29 21:37:44(193)]	Start Server At Demo Mode!
+[2015-09-29 21:38:19(172)]	Successful communicate with the business server!
+[2015-09-29 22:03:31(127)]	Fails to communicate with the business server!
+[2015-09-29 22:03:40(792)]	AnyChatCoreServer has exited with error code:0
